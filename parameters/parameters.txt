@@ -1,0 +1,9 @@
+vel_max=600
+steps_rev=600
+dimX_max=600
+dimY_max=600
+dimZ_max=60
+ruta_arduino=/dev/ttyACM0
+baude_arduino=9600
+placa_arduino=UNO
+max_dist=54.0
